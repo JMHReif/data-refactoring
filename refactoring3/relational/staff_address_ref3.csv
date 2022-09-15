@@ -1,0 +1,13 @@
+address_id,staff_id,staff_address,staff_city,staff_state_province,staff_postal_code,staff_telephone
+1,1,111 Atlantic Avenue,Brooklyn,NY,11201,999-888-7777
+2,2,111 Atlantic Avenue,Brooklyn,NY,11201,777-666-5555
+3,3,94-22 117th Street,Jamaica,NY,11419,123-456-7890
+4,4,171-12 104th Avenue,Jamaica,NY,11433,987-654-3210
+5,5,8210 Surrey Place,Jamaica,NY,11432,234-567-8901
+6,6,13 46th Street,Long Island City,NY,11101,345-678-9012
+7,7,50-6 46th Street,Woodside,NY,11377,456-789-0123
+8,8,212 Leonard Street,Brooklyn,NY,11211,567-890-1234
+9,9,33-52 74th Street,Jackson Heights,NY,11372,678-901-2345
+10,10,33-1 29th Street,Astoria,NY,11106,789-012-3456
+11,11,107 Irving Avenue,Brooklyn,NY,11237,890-123-4567
+12,12,43-1 Cambridge Place,Brooklyn,NY,11238,901-234-5678
