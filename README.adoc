@@ -14,3 +14,9 @@ Accompanying blog post link coming soon!
 
 * Developer guide: https://neo4j.com/developer/graph-database/[What is a Graph Database^]
 * Webpage: https://refactoring.com/[What is refactoring?^]
+* Webpage: https://www.techopedia.com/definition/1175/data-definition-language-ddl[What is DDL?^]
+* Webpage: https://www.geeksforgeeks.org/ddl-commands-syntax/[DDL Syntax^]
+* Webpage: https://www.mysqltutorial.org/import-csv-file-mysql-table/[SQL Import from CSV^]
+* Webpage: https://www.w3schools.com/sql/sql_foreignkey.asp[Foreign Key Constraint^]
+* Tool: https://arrows.app/[Draw Graph Data Models^]
+* Training: https://graphacademy.neo4j.com/[Neo4j GraphAcademy^]
