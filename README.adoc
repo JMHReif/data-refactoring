@@ -6,9 +6,7 @@ For the domain, we loaded a modified version of the publicly-available https://w
 
 == Content
 
-Accompanying blog post link coming soon!
-
-//* Blog post: ???[Data Refactoring^]
+* Blog post: https://thenewstack.io/is-this-the-end-of-data-refactoring/[Data Refactoring^]
 
 == Resources
 
